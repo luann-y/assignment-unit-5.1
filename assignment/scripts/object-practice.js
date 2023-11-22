@@ -56,3 +56,6 @@ console.log(`My updated shoe count with my shiny, new shoes is ${me.shoeCount}.`
   - Cool huh? It works, even though it wasn't there before
   - Console.log your object
 */
+
+me.favoriteColor = 'green';
+console.log( `My favorite color is luscious ${me.favoriteColor}.`);
